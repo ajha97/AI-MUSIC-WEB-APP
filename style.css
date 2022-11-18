@@ -1,0 +1,24 @@
+.heading {
+    font-size:23px;
+    width:100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.div_speed{
+    float:left;
+
+}
+
+
+body{
+    background-size: cover;
+}
+
+
+
+
